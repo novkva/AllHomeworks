@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\AllHomeworks\\AllHomeworks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\AllHomeworks\\AllHomeworks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\AllHomeworks\\AllHomeworks.csproj",
+        "projectName": "AllHomeworks",
+        "projectPath": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\AllHomeworks\\AllHomeworks.csproj",
+        "packagesPath": "C:\\Users\\Irochka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\AllHomeworks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Irochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\Homeworks.csproj": {
+                "projectPath": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\Homeworks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\Homeworks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\Homeworks.csproj",
+        "projectName": "Homeworks",
+        "projectPath": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\Homeworks.csproj",
+        "packagesPath": "C:\\Users\\Irochka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Irochka\\source\\repos\\AllHomeworks\\Homeworks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Irochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

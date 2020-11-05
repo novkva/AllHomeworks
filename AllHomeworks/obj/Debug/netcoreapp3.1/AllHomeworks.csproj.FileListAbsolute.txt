@@ -1,0 +1,14 @@
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.exe
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.deps.json
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.runtimeconfig.json
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.runtimeconfig.dev.json
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.dll
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\AllHomeworks.pdb
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\Homeworks.dll
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\bin\Debug\netcoreapp3.1\Homeworks.pdb
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.csprojAssemblyReference.cache
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.AssemblyInfoInputs.cache
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.AssemblyInfo.cs
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.csproj.CopyComplete
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.dll
+C:\Users\Irochka\source\repos\AllHomeworks\AllHomeworks\obj\Debug\netcoreapp3.1\AllHomeworks.pdb
